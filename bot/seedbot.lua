@@ -220,28 +220,11 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {178263682,123567896,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
+    about_text = [[ سلام كونده خاركسده اين ربات كپي پيست هستش شاخ نشو كيرم تو كص ننت😂😂😂 البته اگه از خودموني ببخش يكم عصبي شدم😂😂 در ضمن اين ربات شب يلدا 🍉 ساخته شده توسط @amir_ab_1 دوستتون دارم
 ]],
     help_text = [[
 Commands list :
